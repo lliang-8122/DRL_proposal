@@ -1,3 +1,4 @@
+影片連結 https://www.youtube.com/watch?v=Dx0T4RStreU
 # Multi-Objective DRL Smart Traffic Signal Control
 
 本專案是一份以 Deep Reinforcement Learning (DRL) 為核心的智慧交通號誌控制 proposal。研究目標是使用 SUMO / SUMO-RL 建立可重現的交通數位孿生環境，並設計一個兼顧效率、公平性與穩定性的多目標自適應紅綠燈控制系統。
